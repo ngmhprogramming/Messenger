@@ -1,6 +1,6 @@
 <?php
 error_reporting(0);
-$db = new mysqli("localhost","id426614_admin","1@qwerty","id426614_messenger");
+$db = new mysqli("localhost","REMOVED","REMOVED","REMOVED");
 if ($db->connect_error){
     die ("Couldn't connect");
 }
